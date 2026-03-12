@@ -14,7 +14,6 @@ The framework demonstrates scalable automation practices including reusable util
 * Maven
 * Page Object Model (POM)
 * Extent Reports
-* Log4j Logging
 
 ## Framework Features
 
