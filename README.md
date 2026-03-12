@@ -50,6 +50,14 @@ src/test/java
 * Invalid login test
 * Access control validation
 
+## Test Execution
+
+![Test Run](project-screenshots/test-run.png)
+
+## Test Report
+
+![Extent Report](project-screenshots/extent-report.png)
+
 ## Author
 
 Pragati Nangare
